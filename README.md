@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joseph
+- 👋 Hi, I’m Hayden
 - 🎓 Recent SSU Graduate 
 
 ## Langauges & Technologies
