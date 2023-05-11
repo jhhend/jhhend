@@ -12,9 +12,13 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Connect with me!
+
 <div>
   <a href="https://www.linkedin.com/in/jhhend/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://jhhend.github.io/resume">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Resume-%230077B5?style=for-the-badge&logoColor=white&logo=repo" alt="Resume"/>
   </a>
 </div>
 
