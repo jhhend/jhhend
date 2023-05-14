@@ -22,6 +22,15 @@
   </a>
 </div>
 
+## See my p5.js sketches
+
+<ul>
+  <li> <a href="https://jhhend.github.io/p5js-game-of-life"> Game of Life </a> </li>
+  <li> <a href="https://jhhend.github.io/p5js-kmeans"> K-means </a> </li>
+  <li> <a href="https://jhhend.github.io/p5js-osaka"> Osaka </a> </li>
+  <li> <a href="https://jhhend.github.io/p5js-radar-chart"> Radar Chart </a> </li>  
+</ul>
+
 <!---
 jhhend/jhhend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
