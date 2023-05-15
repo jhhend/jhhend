@@ -25,10 +25,32 @@
 ## See my p5.js sketches
 
 <ul>
-  <li> <a href="https://jhhend.github.io/p5js-game-of-life"> Game of Life </a> </li>
-  <li> <a href="https://jhhend.github.io/p5js-kmeans"> K-means </a> </li>
-  <li> <a href="https://jhhend.github.io/p5js-osaka"> Osaka </a> </li>
-  <li> <a href="https://jhhend.github.io/p5js-radar-chart"> Radar Chart </a> </li>  
+  <li> <b> Algorithms </b>
+    <ul>
+      <li> <a href="https://jhhend.github.io/p5js-kmeans"> K-means clustering </a> </li>
+    </ul>
+  </li>
+  
+  <li> <b> Cellular Automata </b>
+    <ul>
+      <li> <a href="https://jhhend.github.io/p5js-abelian-sandpile"> Abelian Sandpile Model </a> </li>
+      <li> <a href="https://jhhend.github.io/p5js-game-of-life"> Conway's Game of Life </a> </li>
+    </ul>
+  </li>
+  
+  <li> <b> Fun & Games </b>
+    <ul>
+      <li> <a href="https://jhhend.github.io/p5js-radar-chart"> Radar Chart </a> </li>  
+    </ul>
+  </li>
+  
+  <li> <b> Generative Art </b>
+    <ul>
+      <li> <a href="https://jhhend.github.io/p5js-osaka"> Osaka </a> </li>
+    </ul>
+  </li>
+  
+
 </ul>
 
 <!---
