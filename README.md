@@ -32,6 +32,7 @@
 
 ## Frameworks & Other Technologies
 
+![D3.js](https://img.shields.io/badge/D3.js-%23f9a03c.svg?style=for-the-badge&logo=D3.js&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
