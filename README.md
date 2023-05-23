@@ -57,6 +57,7 @@
     <ul>
       <li> <a href="https://jhhend.github.io/p5js-abelian-sandpile"> Abelian Sandpile Model </a> </li>
       <li> <a href="https://jhhend.github.io/p5js-game-of-life"> Conway's Game of Life </a> </li>
+      <li> <a href=https://jhhend.github.io/p5js-langtons-ant> Langton's Ant </a> </li>
     </ul>
   </li>
   
