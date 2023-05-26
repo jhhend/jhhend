@@ -64,6 +64,7 @@
   <li> <b> Fun & Games </b>
     <ul>
       <li> <a href="https://jhhend.github.io/p5js-lights-out/"> Lights Out </a> </li>
+      <li> <a href="https://jhhend.github.io/p5js-minesweeper/"> Minesweeper </a> </li>
       <li> <a href="https://jhhend.github.io/p5js-radar-chart"> Radar Chart </a> </li>  
     </ul>
   </li>
