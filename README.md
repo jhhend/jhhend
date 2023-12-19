@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Hayden
-- 🎓 Recent SSU Graduate 
+- 💻 Enthusiastic about technology and building interesting and useful tools
+- ✏️ Work ethic informed by continued learning and self-improvement
 
 ## Connect with me!
 
@@ -15,48 +16,44 @@
   </a>
 </div>
 
-## Langauges 
+### Langauges 
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/C++-00599C?logo=c&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&labelColor=555)
 
-## Database Platforms
+### Database Platforms
+![](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&labelColor=555)
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Frameworks, Libraries, and Other Technologies
 
-## Frameworks & Other Technologies
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Preact](https://img.shields.io/badge/preact-%23673AB8.svg?style=for-the-badge&logo=preact&logoColor=%white)
-![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&logoColor=fff&labelColor=555)
 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff&labelColor=555)
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&labelColor=555)
 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-%23f9a03c.svg?style=for-the-badge&logo=D3.js&logoColor=white) 
+![](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/Gutenberg-000000?logo=gutenberg&logoColor=fff&labelColor=555)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-
-
-
-
-## See my p5.js sketches
+### See my p5.js sketches
 
 <ul>
   <li> <b> Algorithms </b>
