@@ -54,7 +54,10 @@
 ![](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=fff&labelColor=555)
+
+
 
 ### See my p5.js sketches
 
