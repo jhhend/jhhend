@@ -19,7 +19,7 @@
 ### Langauges 
 
 ![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&labelColor=555)
-![](https://img.shields.io/badge/C++-00599C?logo=c&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/GML-000000?logo=gamemaker&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&labelColor=555)
