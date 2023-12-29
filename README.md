@@ -30,6 +30,7 @@
 ![](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=fff&labelColor=555)
 
 
+
 ### Database Platforms
 ![](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&labelColor=555)
@@ -57,6 +58,13 @@
 ![](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=fff&labelColor=555)
 
+### API Experience
+
+![](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/Google%20Analytics%204-E37400?logo=googleanalytics&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/Google%20My%20Business-4285F4?logo=googlemybusiness&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=fff&labelColor=555)
 
 
 ### See my p5.js sketches
