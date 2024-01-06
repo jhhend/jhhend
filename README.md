@@ -94,6 +94,7 @@
   
   <li> <b> Generative Art </b>
     <ul>
+      <li> <a href="https://jhhend.github.io/p5js-degradation"> Degradation </a></li>
       <li> <a href="https://jhhend.github.io/p5js-network"> Network </a></li>
       <li> <a href="https://jhhend.github.io/p5js-osaka"> Osaka </a> </li>
     </ul>
