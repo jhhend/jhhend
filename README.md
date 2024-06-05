@@ -51,6 +51,7 @@
 ![](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&logoColor=fff&labelColor=555)
+![](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&labelColor=555)
