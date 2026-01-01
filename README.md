@@ -45,7 +45,6 @@
 ![](https://img.shields.io/badge/Gutenberg-000000?logo=gutenberg&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&labelColor=555)
-![](https://img.shields.io/badge/NextUI-000000?logo=nextui&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&labelColor=555)
 ![](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&labelColor=555)
